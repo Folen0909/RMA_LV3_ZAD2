@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">LV3_ZAD2</string>
+    <string name="app_name">Famous Persons Fragments</string>
+    <string name="add_new_person">Add new person</string>
+    <string name="tv_newPerson_header">Create new inspiring person</string>
+    <string name="newPerson_nameInputHint">Enter name:</string>
+    <string name="newPerson_birthInputHint">Enter birth date:</string>
+    <string name="newPerson_deathInputHint">Enter death date:</string>
+    <string name="newPerson_saveText">Save</string>
+    <string name="newPerson_imageLinkInputHint">Enter image link:</string>
+    <string name="newPerson_descriptionInputHint">Enter short description:</string>
+    <string name="newPerson_quotesInputHint">Enter quote (separate using newline):</string>
+    <string name="deletePerson_Text">Delete</string>
 </resources>
